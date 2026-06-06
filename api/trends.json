@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-07T04:25:20.539208+08:00",
-  "total_titles_processed": 433,
+  "generated_at": "2026-06-07T05:23:05.378343+08:00",
+  "total_titles_processed": 459,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             10,
             26,
             20,
-            15
+            15,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 04时25分]"
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 05时23分]"
         },
         {
           "title": "上海一医院妇科专家挂号费5000元",
