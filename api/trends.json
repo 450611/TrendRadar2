@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-07T19:34:18.419831+08:00",
-  "total_titles_processed": 1251,
+  "generated_at": "2026-06-07T20:31:51.504241+08:00",
+  "total_titles_processed": 1319,
   "failed_sources": [],
   "trends": [
     {
@@ -31,11 +31,12 @@
           "url": "https://www.zhihu.com/question/2046659069063030584",
           "source": "知乎",
           "ranks": [
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时44分 ~ 19时34分]"
+          "appearance_count": 5,
+          "time_info": "[18时44分 ~ 20时31分]"
         },
         {
           "title": "上海一医院妇科专家挂号费5000元",
