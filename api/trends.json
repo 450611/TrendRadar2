@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-07T17:02:40.400663+08:00",
-  "total_titles_processed": 1081,
+  "generated_at": "2026-06-07T18:45:03.110495+08:00",
+  "total_titles_processed": 1179,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "妇科 拔牙",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "上海一医院妇科专家挂号费5000元",
@@ -25,6 +25,17 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时24分 ~ 08时33分]"
+        },
+        {
+          "title": "上海一医院妇科专家挂号费 5000 元，当地卫健委称已备案，主要面向特定就诊人群，这么贵合理吗？",
+          "url": "https://www.zhihu.com/question/2046659069063030584",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时44分 ~ 18时45分]"
         },
         {
           "title": "上海一医院妇科专家挂号费5000元",
