@@ -1,28 +1,7 @@
 {
-  "generated_at": "2026-06-13T23:33:28.080330+08:00",
-  "total_titles_processed": 1670,
+  "generated_at": "2026-06-14T00:29:53.952941+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "妇科 拔牙",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "海南一实习医生给患者拔牙致人死亡，与牙科诊所一起赔偿 37 万元并被判 1 年半，如何从法律角度解读？",
-          "url": "https://www.zhihu.com/question/2046242091890630877",
-          "source": "知乎",
-          "ranks": [
-            1,
-            2,
-            3,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时58分 ~ 07时31分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
