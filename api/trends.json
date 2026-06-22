@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-06-22T22:54:04.187527+08:00",
-  "total_titles_processed": 1729,
+  "generated_at": "2026-06-23T00:34:35.792714+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "妇科 拔牙",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "男子拔牙3小时挂水13天 医院回应",
+          "url": "https://www.toutiao.com/trending/7654189598408917046/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时34分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
