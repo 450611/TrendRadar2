@@ -1,37 +1,7 @@
 {
-  "generated_at": "2026-06-23T23:02:43.981901+08:00",
-  "total_titles_processed": 1969,
+  "generated_at": "2026-06-24T00:06:20.574562+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "妇科 拔牙",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "男子拔牙3小时挂水13天",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8B%94%E7%89%993%E5%B0%8F%E6%97%B6%E6%8C%82%E6%B0%B413%E5%A4%A9",
-          "source": "百度热搜",
-          "ranks": [
-            14,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时20分 ~ 15时11分]"
-        },
-        {
-          "title": "男子拔牙3小时挂水13天 医院回应",
-          "url": "https://www.toutiao.com/trending/7654189598408917046/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时34分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
