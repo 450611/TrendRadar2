@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-07-07T21:12:38.728081+08:00",
-  "total_titles_processed": 1409,
+  "generated_at": "2026-07-08T00:20:05.371229+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "妇科 拔牙",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "媒体：“坑老式拔牙”不能无休止上演",
-          "url": "https://www.toutiao.com/trending/7658700424393031706/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时13分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
